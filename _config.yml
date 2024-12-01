@@ -22,8 +22,8 @@ title: Dinah Johnson
 email: dinahbytes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My collection of projects, writings, and pictures. All content is created solely by me. 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "dinahbytes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dinahbytes
 
 # Build settings
@@ -31,16 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-lsi: false
-safe: true
-source: [dinahbytes.github.io]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
